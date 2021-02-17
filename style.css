@@ -101,17 +101,23 @@ h1 {
   background-color: var(--light-cyan);
 }
 
-
-
-
-
-
-
-
-
+.why-us p {
+  color: white;
+  font-weight: 200;
+  line-height: 1.5;
+  width: 70%;
+}
 
 footer {
+  font-size: 1.2rem;
+  color: var(--light-cyan);
   text-align: center;
+}
+
+footer a {
+  text-decoration: none;
+  font-weight: 700;
+  color: var(--cyan);
 }
 
 
